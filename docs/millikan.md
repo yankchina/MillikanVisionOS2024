@@ -1,0 +1,19 @@
+# Millikan and Oil Drop Experiment
+
+## Oil Drop Experiment
+
+The oil drop experiment was performed by Robert A. Millikan and Harvey Fletcher in 1909 to measure the elementary electric charge (the charge of the electron). The experiment took place in the Ryerson Physical Laboratory at the University of Chicago. Millikan received the Nobel Prize in Physics in 1923.
+
+The experiment entailed observing tiny electrically charged droplets of oil located between two parallel metal surfaces, forming the plates of a capacitor. The plates were oriented horizontally, with one plate above the other. A mist of atomized oil drops was introduced through a small hole in the top plate and was ionized by x-rays, making them negatively charged. First, with zero applied electric field, the velocity of a falling droplet was measured. At terminal velocity, the drag force equals the gravitational force. As both forces depend on the radius in different ways, the radius of the droplet, and therefore the mass and gravitational force, could be determined (using the known density of the oil). Next, a voltage inducing an electric field was applied between the plates and adjusted until the drops were suspended in mechanical equilibrium, indicating that the electrical force and the gravitational force were in balance. Using the known electric field, Millikan and Fletcher could determine the charge on the oil droplet. By repeating the experiment for many droplets, they confirmed that the charges were all small integer multiples of a certain base value, which was found to be 1.5924(17)×10−19 C, about 0.6% difference from the currently accepted value of 1.602176634×10−19 C. They proposed that this was the magnitude of the negative charge of a single electron.
+
+
+### Robert Andrews Millikan
+
+Robert Andrews Millikan (March 22, 1868 – December 19, 1953) was an American experimental physicist who won the Nobel Prize for Physics in 1923 for the measurement of the elementary electric charge and for his work on the photoelectric effect.
+
+Millikan graduated from Oberlin College in 1891 and obtained his doctorate at Columbia University in 1895. In 1896 he became an assistant at the University of Chicago, where he became a full professor in 1910. In 1909 Millikan began a series of experiments to determine the electric charge carried by a single electron. He began by measuring the course of charged water droplets in an electric field. The results suggested that the charge on the droplets is a multiple of the elementary electric charge, but the experiment was not accurate enough to be convincing. He obtained more precise results in 1910 with his oil-drop experiment in which he replaced water (which tended to evaporate too quickly) with oil.
+
+In 1914 Millikan took up with similar skill the experimental verification of the equation introduced by Albert Einstein in 1905 to describe the photoelectric effect. He used this same research to obtain an accurate value of the Planck constant. In 1921 Millikan left the University of Chicago to become director of the Norman Bridge Laboratory of Physics at the California Institute of Technology (Caltech) in Pasadena, California. There he undertook a major study of the radiation that the physicist Victor Hess had detected coming from outer space. Millikan proved that this radiation is indeed of extraterrestrial origin, and he named it "cosmic rays." As chairman of the Executive Council of Caltech (the school's governing body at the time) from 1921 until his retirement in 1945, Millikan helped to turn the school into one of the leading research institutions in the United States. He also served on the board of trustees for Science Service, now known as Society for Science & the Public, from 1921 to 1953.
+
+Millikan was an elected member of the American Philosophical Society, the American Academy of Arts and Sciences, and the United States National Academy of Sciences.
+
