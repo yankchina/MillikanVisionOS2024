@@ -7,76 +7,62 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18BC711E2C130245000CBBD8 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 18BC711D2C130245000CBBD8 /* RealityKitContent */; };
-		18BC71202C130245000CBBD8 /* MillikanVisionOSApp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC711F2C130245000CBBD8 /* MillikanVisionOSApp2024App.swift */; };
-		18BC71222C130245000CBBD8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC71212C130245000CBBD8 /* ContentView.swift */; };
-		18BC71242C130247000CBBD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BC71232C130247000CBBD8 /* Assets.xcassets */; };
-		18BC71272C130247000CBBD8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BC71262C130247000CBBD8 /* Preview Assets.xcassets */; };
+		1898DD322C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */; };
+		1898DD342C13EEA600398D77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD332C13EEA600398D77 /* ContentView.swift */; };
+		1898DD362C13EEA800398D77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD352C13EEA800398D77 /* Assets.xcassets */; };
+		1898DD392C13EEA800398D77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD382C13EEA800398D77 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18BC71182C130245000CBBD8 /* MillikanVisionOSApp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MillikanVisionOSApp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		18BC711C2C130245000CBBD8 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
-		18BC711F2C130245000CBBD8 /* MillikanVisionOSApp2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillikanVisionOSApp2024App.swift; sourceTree = "<group>"; };
-		18BC71212C130245000CBBD8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		18BC71232C130247000CBBD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		18BC71262C130247000CBBD8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		18BC71282C130247000CBBD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MillikanOilDropExperimentApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillikanOilDropExperimentAppApp.swift; sourceTree = "<group>"; };
+		1898DD332C13EEA600398D77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1898DD352C13EEA800398D77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1898DD382C13EEA800398D77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		18BC71152C130245000CBBD8 /* Frameworks */ = {
+		1898DD2B2C13EEA600398D77 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18BC711E2C130245000CBBD8 /* RealityKitContent in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		18BC710F2C130245000CBBD8 = {
+		1898DD252C13EEA600398D77 = {
 			isa = PBXGroup;
 			children = (
-				18BC711A2C130245000CBBD8 /* MillikanVisionOSApp2024 */,
-				18BC711B2C130245000CBBD8 /* Packages */,
-				18BC71192C130245000CBBD8 /* Products */,
+				1898DD302C13EEA600398D77 /* MillikanOilDropExperimentApp */,
+				1898DD2F2C13EEA600398D77 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		18BC71192C130245000CBBD8 /* Products */ = {
+		1898DD2F2C13EEA600398D77 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18BC71182C130245000CBBD8 /* MillikanVisionOSApp2024.app */,
+				1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18BC711A2C130245000CBBD8 /* MillikanVisionOSApp2024 */ = {
+		1898DD302C13EEA600398D77 /* MillikanOilDropExperimentApp */ = {
 			isa = PBXGroup;
 			children = (
-				18BC711F2C130245000CBBD8 /* MillikanVisionOSApp2024App.swift */,
-				18BC71212C130245000CBBD8 /* ContentView.swift */,
-				18BC71232C130247000CBBD8 /* Assets.xcassets */,
-				18BC71282C130247000CBBD8 /* Info.plist */,
-				18BC71252C130247000CBBD8 /* Preview Content */,
+				1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */,
+				1898DD332C13EEA600398D77 /* ContentView.swift */,
+				1898DD352C13EEA800398D77 /* Assets.xcassets */,
+				1898DD372C13EEA800398D77 /* Preview Content */,
 			);
-			path = MillikanVisionOSApp2024;
+			path = MillikanOilDropExperimentApp;
 			sourceTree = "<group>";
 		};
-		18BC711B2C130245000CBBD8 /* Packages */ = {
+		1898DD372C13EEA800398D77 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				18BC711C2C130245000CBBD8 /* RealityKitContent */,
-			);
-			path = Packages;
-			sourceTree = "<group>";
-		};
-		18BC71252C130247000CBBD8 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				18BC71262C130247000CBBD8 /* Preview Assets.xcassets */,
+				1898DD382C13EEA800398D77 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -84,42 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18BC71172C130245000CBBD8 /* MillikanVisionOSApp2024 */ = {
+		1898DD2D2C13EEA600398D77 /* MillikanOilDropExperimentApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18BC712B2C130247000CBBD8 /* Build configuration list for PBXNativeTarget "MillikanVisionOSApp2024" */;
+			buildConfigurationList = 1898DD3C2C13EEA800398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */;
 			buildPhases = (
-				18BC71142C130245000CBBD8 /* Sources */,
-				18BC71152C130245000CBBD8 /* Frameworks */,
-				18BC71162C130245000CBBD8 /* Resources */,
+				1898DD2A2C13EEA600398D77 /* Sources */,
+				1898DD2B2C13EEA600398D77 /* Frameworks */,
+				1898DD2C2C13EEA600398D77 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = MillikanVisionOSApp2024;
-			packageProductDependencies = (
-				18BC711D2C130245000CBBD8 /* RealityKitContent */,
-			);
-			productName = MillikanVisionOSApp2024;
-			productReference = 18BC71182C130245000CBBD8 /* MillikanVisionOSApp2024.app */;
+			name = MillikanOilDropExperimentApp;
+			productName = MillikanOilDropExperimentApp;
+			productReference = 1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		18BC71102C130245000CBBD8 /* Project object */ = {
+		1898DD262C13EEA600398D77 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					18BC71172C130245000CBBD8 = {
+					1898DD2D2C13EEA600398D77 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = 18BC71132C130245000CBBD8 /* Build configuration list for PBXProject "MillikanVisionOSApp2024" */;
+			buildConfigurationList = 1898DD292C13EEA600398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 18BC710F2C130245000CBBD8;
-			productRefGroup = 18BC71192C130245000CBBD8 /* Products */;
+			mainGroup = 1898DD252C13EEA600398D77;
+			productRefGroup = 1898DD2F2C13EEA600398D77 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18BC71172C130245000CBBD8 /* MillikanVisionOSApp2024 */,
+				1898DD2D2C13EEA600398D77 /* MillikanOilDropExperimentApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		18BC71162C130245000CBBD8 /* Resources */ = {
+		1898DD2C2C13EEA600398D77 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18BC71272C130247000CBBD8 /* Preview Assets.xcassets in Resources */,
-				18BC71242C130247000CBBD8 /* Assets.xcassets in Resources */,
+				1898DD392C13EEA800398D77 /* Preview Assets.xcassets in Resources */,
+				1898DD362C13EEA800398D77 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		18BC71142C130245000CBBD8 /* Sources */ = {
+		1898DD2A2C13EEA600398D77 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18BC71222C130245000CBBD8 /* ContentView.swift in Sources */,
-				18BC71202C130245000CBBD8 /* MillikanVisionOSApp2024App.swift in Sources */,
+				1898DD342C13EEA600398D77 /* ContentView.swift in Sources */,
+				1898DD322C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		18BC71292C130247000CBBD8 /* Debug */ = {
+		1898DD3A2C13EEA800398D77 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -214,18 +197,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = xros;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				XROS_DEPLOYMENT_TARGET = 1.2;
 			};
 			name = Debug;
 		};
-		18BC712A2C130247000CBBD8 /* Release */ = {
+		1898DD3B2C13EEA800398D77 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -271,97 +254,96 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				SDKROOT = xros;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
-				XROS_DEPLOYMENT_TARGET = 1.2;
 			};
 			name = Release;
 		};
-		18BC712C2C130247000CBBD8 /* Debug */ = {
+		1898DD3D2C13EEA800398D77 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MillikanVisionOSApp2024/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MillikanOilDropExperimentApp/Preview Content\"";
 				DEVELOPMENT_TEAM = 5XZQ8776YN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yankchina.MillikanVisionOSApp2024;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yankchina.MillikanOilDropExperimentApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		18BC712D2C130247000CBBD8 /* Release */ = {
+		1898DD3E2C13EEA800398D77 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MillikanVisionOSApp2024/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MillikanOilDropExperimentApp/Preview Content\"";
 				DEVELOPMENT_TEAM = 5XZQ8776YN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yankchina.MillikanVisionOSApp2024;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yankchina.MillikanOilDropExperimentApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18BC71132C130245000CBBD8 /* Build configuration list for PBXProject "MillikanVisionOSApp2024" */ = {
+		1898DD292C13EEA600398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				18BC71292C130247000CBBD8 /* Debug */,
-				18BC712A2C130247000CBBD8 /* Release */,
+				1898DD3A2C13EEA800398D77 /* Debug */,
+				1898DD3B2C13EEA800398D77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18BC712B2C130247000CBBD8 /* Build configuration list for PBXNativeTarget "MillikanVisionOSApp2024" */ = {
+		1898DD3C2C13EEA800398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				18BC712C2C130247000CBBD8 /* Debug */,
-				18BC712D2C130247000CBBD8 /* Release */,
+				1898DD3D2C13EEA800398D77 /* Debug */,
+				1898DD3E2C13EEA800398D77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		18BC711D2C130245000CBBD8 /* RealityKitContent */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = RealityKitContent;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 18BC71102C130245000CBBD8 /* Project object */;
+	rootObject = 1898DD262C13EEA600398D77 /* Project object */;
 }
