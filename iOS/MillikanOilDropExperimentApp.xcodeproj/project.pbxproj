@@ -7,22 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1898DD322C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */; };
-		1898DD342C13EEA600398D77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD332C13EEA600398D77 /* ContentView.swift */; };
-		1898DD362C13EEA800398D77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD352C13EEA800398D77 /* Assets.xcassets */; };
-		1898DD392C13EEA800398D77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD382C13EEA800398D77 /* Preview Assets.xcassets */; };
+		1898DD6B2C13F27400398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD6A2C13F27400398D77 /* MillikanOilDropExperimentAppApp.swift */; };
+		1898DD6D2C13F27400398D77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD6C2C13F27400398D77 /* ContentView.swift */; };
+		1898DD6F2C13F27600398D77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD6E2C13F27600398D77 /* Assets.xcassets */; };
+		1898DD722C13F27600398D77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD712C13F27600398D77 /* Preview Assets.xcassets */; };
+		1898DD792C13F31A00398D77 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD782C13F31A00398D77 /* HomeView.swift */; };
+		1898DD7C2C13F67700398D77 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD7B2C13F67700398D77 /* Localizable.xcstrings */; };
+		1898DD802C13F9C100398D77 /* home.en_us.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD7E2C13F9C000398D77 /* home.en_us.txt */; };
+		1898DD812C13F9C100398D77 /* home.zh_cn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1898DD7F2C13F9C100398D77 /* home.zh_cn.txt */; };
+		1898DD832C13F9DD00398D77 /* HomeContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1898DD822C13F9DD00398D77 /* HomeContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MillikanOilDropExperimentApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillikanOilDropExperimentAppApp.swift; sourceTree = "<group>"; };
-		1898DD332C13EEA600398D77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		1898DD352C13EEA800398D77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1898DD382C13EEA800398D77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1898DD672C13F27400398D77 /* MillikanOilDropExperimentApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MillikanOilDropExperimentApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1898DD6A2C13F27400398D77 /* MillikanOilDropExperimentAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillikanOilDropExperimentAppApp.swift; sourceTree = "<group>"; };
+		1898DD6C2C13F27400398D77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1898DD6E2C13F27600398D77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1898DD712C13F27600398D77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1898DD782C13F31A00398D77 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		1898DD7B2C13F67700398D77 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = Localizable.xcstrings; path = MillikanOilDropExperimentApp/Localizable.xcstrings; sourceTree = SOURCE_ROOT; };
+		1898DD7E2C13F9C000398D77 /* home.en_us.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = home.en_us.txt; sourceTree = "<group>"; };
+		1898DD7F2C13F9C100398D77 /* home.zh_cn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = home.zh_cn.txt; sourceTree = "<group>"; };
+		1898DD822C13F9DD00398D77 /* HomeContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1898DD2B2C13EEA600398D77 /* Frameworks */ = {
+		1898DD642C13F27400398D77 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,51 +42,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1898DD252C13EEA600398D77 = {
+		1898DD5E2C13F27400398D77 = {
 			isa = PBXGroup;
 			children = (
-				1898DD302C13EEA600398D77 /* MillikanOilDropExperimentApp */,
-				1898DD2F2C13EEA600398D77 /* Products */,
+				1898DD692C13F27400398D77 /* MillikanOilDropExperimentApp */,
+				1898DD682C13F27400398D77 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1898DD2F2C13EEA600398D77 /* Products */ = {
+		1898DD682C13F27400398D77 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */,
+				1898DD672C13F27400398D77 /* MillikanOilDropExperimentApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1898DD302C13EEA600398D77 /* MillikanOilDropExperimentApp */ = {
+		1898DD692C13F27400398D77 /* MillikanOilDropExperimentApp */ = {
 			isa = PBXGroup;
 			children = (
-				1898DD312C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift */,
-				1898DD332C13EEA600398D77 /* ContentView.swift */,
-				1898DD352C13EEA800398D77 /* Assets.xcassets */,
-				1898DD372C13EEA800398D77 /* Preview Content */,
+				1898DD7D2C13F91F00398D77 /* Resources */,
+				1898DD7B2C13F67700398D77 /* Localizable.xcstrings */,
+				1898DD7A2C13F34600398D77 /* Views */,
+				1898DD6A2C13F27400398D77 /* MillikanOilDropExperimentAppApp.swift */,
+				1898DD6E2C13F27600398D77 /* Assets.xcassets */,
+				1898DD702C13F27600398D77 /* Preview Content */,
 			);
 			path = MillikanOilDropExperimentApp;
 			sourceTree = "<group>";
 		};
-		1898DD372C13EEA800398D77 /* Preview Content */ = {
+		1898DD702C13F27600398D77 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				1898DD382C13EEA800398D77 /* Preview Assets.xcassets */,
+				1898DD712C13F27600398D77 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1898DD7A2C13F34600398D77 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1898DD6C2C13F27400398D77 /* ContentView.swift */,
+				1898DD782C13F31A00398D77 /* HomeView.swift */,
+				1898DD822C13F9DD00398D77 /* HomeContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1898DD7D2C13F91F00398D77 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1898DD7E2C13F9C000398D77 /* home.en_us.txt */,
+				1898DD7F2C13F9C100398D77 /* home.zh_cn.txt */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1898DD2D2C13EEA600398D77 /* MillikanOilDropExperimentApp */ = {
+		1898DD662C13F27400398D77 /* MillikanOilDropExperimentApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1898DD3C2C13EEA800398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */;
+			buildConfigurationList = 1898DD752C13F27600398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */;
 			buildPhases = (
-				1898DD2A2C13EEA600398D77 /* Sources */,
-				1898DD2B2C13EEA600398D77 /* Frameworks */,
-				1898DD2C2C13EEA600398D77 /* Resources */,
+				1898DD632C13F27400398D77 /* Sources */,
+				1898DD642C13F27400398D77 /* Frameworks */,
+				1898DD652C13F27400398D77 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,68 +115,74 @@
 			);
 			name = MillikanOilDropExperimentApp;
 			productName = MillikanOilDropExperimentApp;
-			productReference = 1898DD2E2C13EEA600398D77 /* MillikanOilDropExperimentApp.app */;
+			productReference = 1898DD672C13F27400398D77 /* MillikanOilDropExperimentApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1898DD262C13EEA600398D77 /* Project object */ = {
+		1898DD5F2C13F27400398D77 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					1898DD2D2C13EEA600398D77 = {
+					1898DD662C13F27400398D77 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = 1898DD292C13EEA600398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */;
+			buildConfigurationList = 1898DD622C13F27400398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
-			mainGroup = 1898DD252C13EEA600398D77;
-			productRefGroup = 1898DD2F2C13EEA600398D77 /* Products */;
+			mainGroup = 1898DD5E2C13F27400398D77;
+			productRefGroup = 1898DD682C13F27400398D77 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1898DD2D2C13EEA600398D77 /* MillikanOilDropExperimentApp */,
+				1898DD662C13F27400398D77 /* MillikanOilDropExperimentApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1898DD2C2C13EEA600398D77 /* Resources */ = {
+		1898DD652C13F27400398D77 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1898DD392C13EEA800398D77 /* Preview Assets.xcassets in Resources */,
-				1898DD362C13EEA800398D77 /* Assets.xcassets in Resources */,
+				1898DD722C13F27600398D77 /* Preview Assets.xcassets in Resources */,
+				1898DD6F2C13F27600398D77 /* Assets.xcassets in Resources */,
+				1898DD812C13F9C100398D77 /* home.zh_cn.txt in Resources */,
+				1898DD7C2C13F67700398D77 /* Localizable.xcstrings in Resources */,
+				1898DD802C13F9C100398D77 /* home.en_us.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1898DD2A2C13EEA600398D77 /* Sources */ = {
+		1898DD632C13F27400398D77 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1898DD342C13EEA600398D77 /* ContentView.swift in Sources */,
-				1898DD322C13EEA600398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */,
+				1898DD792C13F31A00398D77 /* HomeView.swift in Sources */,
+				1898DD6D2C13F27400398D77 /* ContentView.swift in Sources */,
+				1898DD6B2C13F27400398D77 /* MillikanOilDropExperimentAppApp.swift in Sources */,
+				1898DD832C13F9DD00398D77 /* HomeContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1898DD3A2C13EEA800398D77 /* Debug */ = {
+		1898DD732C13F27600398D77 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +245,7 @@
 			};
 			name = Debug;
 		};
-		1898DD3B2C13EEA800398D77 /* Release */ = {
+		1898DD742C13F27600398D77 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -264,7 +301,7 @@
 			};
 			name = Release;
 		};
-		1898DD3D2C13EEA800398D77 /* Debug */ = {
+		1898DD762C13F27600398D77 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		1898DD3E2C13EEA800398D77 /* Release */ = {
+		1898DD772C13F27600398D77 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -325,25 +362,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1898DD292C13EEA600398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */ = {
+		1898DD622C13F27400398D77 /* Build configuration list for PBXProject "MillikanOilDropExperimentApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1898DD3A2C13EEA800398D77 /* Debug */,
-				1898DD3B2C13EEA800398D77 /* Release */,
+				1898DD732C13F27600398D77 /* Debug */,
+				1898DD742C13F27600398D77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1898DD3C2C13EEA800398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */ = {
+		1898DD752C13F27600398D77 /* Build configuration list for PBXNativeTarget "MillikanOilDropExperimentApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1898DD3D2C13EEA800398D77 /* Debug */,
-				1898DD3E2C13EEA800398D77 /* Release */,
+				1898DD762C13F27600398D77 /* Debug */,
+				1898DD772C13F27600398D77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1898DD262C13EEA600398D77 /* Project object */;
+	rootObject = 1898DD5F2C13F27400398D77 /* Project object */;
 }
