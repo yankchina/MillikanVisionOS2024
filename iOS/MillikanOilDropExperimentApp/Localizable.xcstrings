@@ -1,6 +1,16 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "(Apple Vision AR Demo)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(苹果AR演示）"
+          }
+        }
+      }
+    },
     "AppTitle" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -14,6 +24,73 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "密立根油滴实验"
+          }
+        }
+      }
+    },
+    "authors" : {
+      "comment" : "authors",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model: Yang Qiyuan; Programming: Yang Ankang"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模型：杨淇媛；编程：杨安康"
+          }
+        }
+      }
+    },
+    "Detailed Information View" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "详情页面"
+          }
+        }
+      }
+    },
+    "Details" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "详情"
+          }
+        }
+      }
+    },
+    "Enter AR View" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "进入AR模式"
+          }
+        }
+      }
+    },
+    "Go to Details" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看详情介绍"
+          }
+        }
+      }
+    },
+    "Go to Info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看简介"
           }
         }
       }
@@ -65,6 +142,118 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "虚拟设备"
+          }
+        }
+      }
+    },
+    "Info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
+    "Information about the App" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于本软件"
+          }
+        }
+      }
+    },
+    "Millikan Oil Drop Experiments" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密立根油滴实验"
+          }
+        }
+      }
+    },
+    "Rotate1" : {
+      "comment" : "Rotation model clockwise 90 degree",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rotate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顺时针旋转"
+          }
+        }
+      }
+    },
+    "Rotate2" : {
+      "comment" : "Rotation model counterclockwise 90 degree",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rotate CC"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "逆时针旋转"
+          }
+        }
+      }
+    },
+    "V0.1.20240720B22" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V0.1.20240720B22"
+          }
+        }
+      }
+    },
+    "V0.1.20240720B23" : {
+
+    },
+    "Zoom In" : {
+      "comment" : "Zoom in AR Model",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom In"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放大"
+          }
+        }
+      }
+    },
+    "Zoom Out" : {
+      "comment" : "Zoom out AR Model",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoom Out"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩小"
           }
         }
       }

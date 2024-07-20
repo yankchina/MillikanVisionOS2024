@@ -1,51 +1,61 @@
-//
-//  HomeView.swift
-//  MillikanOilDropExperimentApp
-//
-//  Created by Ankang Yang on 2024/6/8.
-//
-
 import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        VStack {
-            HStack {
-                Text("AppTitle".localized)
-                    .font(.largeTitle)
-                    .padding()
-                Spacer()
-                Image("logo")
-                    .resizable()
-                    .frame(width: 80, height: 80)
-                    .padding()
-            }
-            HomeContentView()
-                .padding()
-            Image("placeholder")
+        Spacer()
+        VStack(spacing: 20) {
+            Image("logo")
                 .resizable()
-                .frame(width: 300, height: 200)
-                .border(Color.black, width: 1)
-            HStack {
-                Button("HomeButton1".localized) {
-                    // Action for BUTTON1
-                }
-                .padding()
-                Button("HomeButton2".localized) {
-                    // Action for BUTTON2
-                }
-                .padding()
-                Button("HomeButton3".localized) {
-                    // Action for BUTTON3
-                }
-                .padding()
+                .frame(width: 80, height: 80)
+            Text(NSLocalizedString("Millikan Oil Drop Experiments",comment: ""))
+                .font(.title)
+                .fontWeight(.bold)
+            Text("(Apple Vision AR Demo)")
+                .font(.caption)
+            
+            NavigationLink(destination: InfoView()) {
+                Text(NSLocalizedString("Go to Info",comment: ""))
+                    .frame(width: 200, height: 50)
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+            }
+            
+            NavigationLink(destination: DetailView()) {
+                Text(NSLocalizedString("Go to Details",comment: ""))
+                    .frame(width: 200, height: 50)
+                    .background(Color.green)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+            }
+            
+            NavigationLink(
+                destination: SingleARView(modelName:"model02")
+            ) {
+                Text(NSLocalizedString("Enter AR View",comment: ""))
+                    .frame(width: 200, height: 50)
+                    .background(Color.red)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
             }
         }
+        Spacer()
+        
+        HStack {
+            Image("logo")
+                .resizable()
+                .frame(width: 40, height: 40)
+            
+            Spacer()
+            
+            VStack{
+                Text(NSLocalizedString("authors",comment: "authors"))
+                    .font(.caption)
+                Text("V0.1.20240720B23")
+                    .font(.caption)
+            }
+        }
+        .padding(.horizontal)
     }
 }
 
-extension String {
-    var localized: String {
-        NSLocalizedString(self, comment: "")
-    }
-}
